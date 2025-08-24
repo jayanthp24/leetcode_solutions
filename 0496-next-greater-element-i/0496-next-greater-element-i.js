@@ -6,14 +6,14 @@
 var nextGreaterElement = function (nums1, nums2) {
     let map = {};
     let stack = [];
-    let res = [];
-    for (let i = nums2.length - 1; i >= 0; i--) {
+
+    // For last element, NGE will be -1 always.
+    map[nums2[nums2.length - 1]] = -1;
+    stack.push(nums2[nums2.length - 1]);
+
+    // Looping from last second element as mapping done for 1st element.
+    for (let i = nums2.length - 2; i >= 0; i--) {
         let found = false;
-        if (i == nums2.length - 1) {
-            map[nums2[i]] = -1;
-            stack.push(nums2[i]);
-            continue;
-        }
         while (stack.length > 0) {
             if (nums2[i] < stack[stack.length - 1]) {
                 map[nums2[i]] = stack[stack.length - 1];
@@ -24,15 +24,13 @@ var nextGreaterElement = function (nums1, nums2) {
                 stack.pop();
             }
         }
+
+        // If there is no next larger element inside stack.
         if (!found) {
             map[nums2[i]] = -1;
             stack.push(nums2[i]);
         }
     }
 
-    for (let num of nums1) {
-        res.push(map[num]);
-    }
-
-    return res;
+    return nums1.map(num => map[num]);
 };
