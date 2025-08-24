@@ -17,8 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jayanthp24/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/jayanthp24/leetcode_solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/jayanthp24/leetcode_solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/jayanthp24/leetcode_solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## String
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/jayanthp24/leetcode_solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
