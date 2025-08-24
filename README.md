@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jayanthp24/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/jayanthp24/leetcode_solutions/tree/master/0155-min-stack) |
 | [0874-backspace-string-compare](https://github.com/jayanthp24/leetcode_solutions/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/jayanthp24/leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/jayanthp24/leetcode_solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0874-backspace-string-compare](https://github.com/jayanthp24/leetcode_solutions/tree/master/0874-backspace-string-compare) |
 | [2128-reverse-prefix-of-word](https://github.com/jayanthp24/leetcode_solutions/tree/master/2128-reverse-prefix-of-word) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/jayanthp24/leetcode_solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
