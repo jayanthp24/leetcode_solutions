@@ -3,7 +3,10 @@
  * @return {number[]}
  */
 var dailyTemperatures = function (temps) {
-    let stack = [temps.length-1];
+    /*
+    Unless like Next Greater Element 1 problem, Here, we store index inside the stack instead of value.
+    */
+    let stack = [temps.length - 1];
     let res = [0];
 
     for (let i = temps.length - 2; i >= 0; i--) {
