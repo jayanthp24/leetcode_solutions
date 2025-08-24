@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/jayanthp24/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jayanthp24/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/jayanthp24/leetcode_solutions/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/jayanthp24/leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0874-backspace-string-compare](https://github.com/jayanthp24/leetcode_solutions/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/jayanthp24/leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/jayanthp24/leetcode_solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -53,4 +54,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/jayanthp24/leetcode_solutions/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/jayanthp24/leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/jayanthp24/leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
