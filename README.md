@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/jayanthp24/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jayanthp24/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/jayanthp24/leetcode_solutions/tree/master/0739-daily-temperatures) |
+| [1036-rotting-oranges](https://github.com/jayanthp24/leetcode_solutions/tree/master/1036-rotting-oranges) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/jayanthp24/leetcode_solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Math
 |  |
@@ -72,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/jayanthp24/leetcode_solutions/tree/master/0496-next-greater-element-i) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/jayanthp24/leetcode_solutions/tree/master/1036-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/jayanthp24/leetcode_solutions/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
