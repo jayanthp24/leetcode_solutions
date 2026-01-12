@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/jayanthp24/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/jayanthp24/leetcode_solutions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/jayanthp24/leetcode_solutions/tree/master/0344-reverse-string) |
+| [0771-jewels-and-stones](https://github.com/jayanthp24/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/jayanthp24/leetcode_solutions/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/jayanthp24/leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/jayanthp24/leetcode_solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jayanthp24/leetcode_solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jayanthp24/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/jayanthp24/leetcode_solutions/tree/master/0496-next-greater-element-i) |
+| [0771-jewels-and-stones](https://github.com/jayanthp24/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 ## Breadth-First Search
 |  |
 | ------- |
