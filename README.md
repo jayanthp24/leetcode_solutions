@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/jayanthp24/leetcode_solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/jayanthp24/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/jayanthp24/leetcode_solutions/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/jayanthp24/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/jayanthp24/leetcode_solutions/tree/master/0541-reverse-string-ii) |
 | [0771-jewels-and-stones](https://github.com/jayanthp24/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/jayanthp24/leetcode_solutions/tree/master/0874-backspace-string-compare) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/jayanthp24/leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/jayanthp24/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/jayanthp24/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jayanthp24/leetcode_solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jayanthp24/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/jayanthp24/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/jayanthp24/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/jayanthp24/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/jayanthp24/leetcode_solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jayanthp24/leetcode_solutions/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/jayanthp24/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/jayanthp24/leetcode_solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/jayanthp24/leetcode_solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Recursion
