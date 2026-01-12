@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/jayanthp24/leetcode_solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/jayanthp24/leetcode_solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2942-find-words-containing-character](https://github.com/jayanthp24/leetcode_solutions/tree/master/2942-find-words-containing-character) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/jayanthp24/leetcode_solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/jayanthp24/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/jayanthp24/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/jayanthp24/leetcode_solutions/tree/master/0771-jewels-and-stones) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/jayanthp24/leetcode_solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jayanthp24/leetcode_solutions/tree/master/0169-majority-element) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/jayanthp24/leetcode_solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Recursion
 |  |
 | ------- |
