@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/jayanthp24/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/jayanthp24/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jayanthp24/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
+| [0704-binary-search](https://github.com/jayanthp24/leetcode_solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/jayanthp24/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [1036-rotting-oranges](https://github.com/jayanthp24/leetcode_solutions/tree/master/1036-rotting-oranges) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/jayanthp24/leetcode_solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/jayanthp24/leetcode_solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/jayanthp24/leetcode_solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jayanthp24/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/jayanthp24/leetcode_solutions/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
