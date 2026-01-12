@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/jayanthp24/leetcode_solutions/tree/master/0912-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/jayanthp24/leetcode_solutions/tree/master/1036-rotting-oranges) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/jayanthp24/leetcode_solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2942-find-words-containing-character](https://github.com/jayanthp24/leetcode_solutions/tree/master/2942-find-words-containing-character) |
 ## Math
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/jayanthp24/leetcode_solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/jayanthp24/leetcode_solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/jayanthp24/leetcode_solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2942-find-words-containing-character](https://github.com/jayanthp24/leetcode_solutions/tree/master/2942-find-words-containing-character) |
 ## Simulation
 |  |
 | ------- |
