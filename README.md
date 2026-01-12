@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jayanthp24/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0344-reverse-string](https://github.com/jayanthp24/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0874-backspace-string-compare](https://github.com/jayanthp24/leetcode_solutions/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/jayanthp24/leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/jayanthp24/leetcode_solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jayanthp24/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jayanthp24/leetcode_solutions/tree/master/0027-remove-element) |
+| [0344-reverse-string](https://github.com/jayanthp24/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0874-backspace-string-compare](https://github.com/jayanthp24/leetcode_solutions/tree/master/0874-backspace-string-compare) |
 | [2128-reverse-prefix-of-word](https://github.com/jayanthp24/leetcode_solutions/tree/master/2128-reverse-prefix-of-word) |
 ## Design
