@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jayanthp24/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jayanthp24/leetcode_solutions/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/jayanthp24/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jayanthp24/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jayanthp24/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/jayanthp24/leetcode_solutions/tree/master/0496-next-greater-element-i) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jayanthp24/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jayanthp24/leetcode_solutions/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/jayanthp24/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/jayanthp24/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0874-backspace-string-compare](https://github.com/jayanthp24/leetcode_solutions/tree/master/0874-backspace-string-compare) |
 | [2128-reverse-prefix-of-word](https://github.com/jayanthp24/leetcode_solutions/tree/master/2128-reverse-prefix-of-word) |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jayanthp24/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/jayanthp24/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
