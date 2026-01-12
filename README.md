@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jayanthp24/leetcode_solutions/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/jayanthp24/leetcode_solutions/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/jayanthp24/leetcode_solutions/tree/master/0509-fibonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/jayanthp24/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/jayanthp24/leetcode_solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/jayanthp24/leetcode_solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/jayanthp24/leetcode_solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/jayanthp24/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/jayanthp24/leetcode_solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/jayanthp24/leetcode_solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2942-find-words-containing-character](https://github.com/jayanthp24/leetcode_solutions/tree/master/2942-find-words-containing-character) |
@@ -239,4 +241,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/jayanthp24/leetcode_solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/jayanthp24/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
