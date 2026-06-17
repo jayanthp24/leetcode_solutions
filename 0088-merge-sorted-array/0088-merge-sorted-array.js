@@ -13,7 +13,7 @@ var merge = function (nums1, m, nums2, n) {
         if ((nums1Copy[p1] <= nums2[p2] && p1 < m) || p2 >= n) {
             nums1[i] = nums1Copy[p1];
             p1++;
-        } else if ((nums2[p2] < nums1Copy[p1]) || p1 >= m) {
+        } else {
             nums1[i] = nums2[p2];
             p2++;
         }
